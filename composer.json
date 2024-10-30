@@ -1,0 +1,17 @@
+{
+	"name": "dbeja/captain-hooks",
+	"authors": [
+		{
+			"name": "David Beja",
+			"email": "david.beja@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"CAPTAINHOOKS\\": "includes/"
+		}
+	},
+	"require": {
+		"nikic/php-parser": "^4.15"
+	}
+}
